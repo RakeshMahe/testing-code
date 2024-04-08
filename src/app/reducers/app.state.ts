@@ -5,5 +5,6 @@ import {StudentFormState} from './../student-form/reducers/student-form.state';
 
 export interface AppState {
     studentform: StudentFormState;
-    onlineFeePayment: OnlineFeePaymentState;
+    onlineFeePayment: OnlineFeePaymentState; 
+    // Rakesh
 }
